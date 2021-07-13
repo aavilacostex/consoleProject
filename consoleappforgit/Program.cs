@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace consoleappforgit
 {
@@ -6,7 +6,7 @@ namespace consoleappforgit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!!");
         }
     }
 }
