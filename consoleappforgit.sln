@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31409.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "consoleappforgit", "consoleappforgit\consoleappforgit.csproj", "{514CDAD7-C86B-4490-9583-8EED95446770}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{514CDAD7-C86B-4490-9583-8EED95446770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{514CDAD7-C86B-4490-9583-8EED95446770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{514CDAD7-C86B-4490-9583-8EED95446770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{514CDAD7-C86B-4490-9583-8EED95446770}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD827E47-2337-4847-8E7C-4CEF8B0E2FE8}
+	EndGlobalSection
+EndGlobal
